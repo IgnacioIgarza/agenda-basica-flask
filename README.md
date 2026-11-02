@@ -1,4 +1,4 @@
-# Agenda Basica con Flask
+# Agenda Básica con Flask
 ## Se trata de un proyecto realizado por Vicente Igarza
 Agenda básica usando Python-Flask; contiene logueo y funciones como edición y borrado de contacto.
 
