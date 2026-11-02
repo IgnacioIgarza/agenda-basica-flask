@@ -13,7 +13,7 @@ La app conecta a una base de datos
 cear nuevos contactos, editarlos o borrarlos,
 ver los usuarios y editar su contraseña,
 y ver todos los contantos.
-![Vista Admin]()
+![Vista Admin](https://github.com/IgnacioIgarza/agenda-basica-flask/blob/main/static/img/pantallaAdmin.bmp)
 ## Tiene un perfil de usuario común que le permite:
 ver sus propios contactos,
 editarlos o borrarlos.
