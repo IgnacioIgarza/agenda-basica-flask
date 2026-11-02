@@ -5,7 +5,7 @@ La app conecta a una base de datos
 ![Vista BD](https://github.com/IgnacioIgarza/agenda-basica-flask/blob/main/static/img/vistaBD.bmp)
 ## Tiene registro y autenticación
 ![Vista registro]()
-![Vista autenticación]()
+![Vista autenticación](https://github.com/IgnacioIgarza/agenda-basica-flask/blob/main/static/img/pantallaAutenticacion.bmp)
 ## Tiene un perfil de Administrador que le permite:
 cear nuevos contactos, editarlos o borrarlos,
 ver los usuarios y editar su contraseña,
